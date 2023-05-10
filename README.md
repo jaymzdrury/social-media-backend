@@ -4,4 +4,4 @@
 
 [Live demo here](https://aaron-james-profile-demo.vercel.app/)
 
-[Frontend code](https://github.com/jaymzdrury/profile-backend.git)
+[Frontend code](https://github.com/jaymzdrury/social-media-frontend)
